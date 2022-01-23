@@ -1,5 +1,5 @@
-# MCIT On-Campus 2021 Winter Hackathon  
-### Project/Team Name: Covid Herd Immunity Calculator
+
+### Covid Herd Immunity Calculator
 ##  
 
 
