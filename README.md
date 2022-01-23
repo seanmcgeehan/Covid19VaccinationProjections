@@ -2,7 +2,7 @@
 ### Project/Team Name: Covid Herd Immunity Calculator
 ##  
 
-*DATA NEEDS TO BE IN SAME FOLDER AS NOTEBOOK/ SCRIPT*
+
 
 **Team Members**  Use format below  
 Name | Year
