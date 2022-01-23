@@ -4,7 +4,7 @@
 
 
 
-**Team Members**  Use format below  
+**Team Members**  
 Name | Year
 ------------ | -------------
 Sean McGeehan | 2022
